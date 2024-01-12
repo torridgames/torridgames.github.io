@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Torrid Games</title>
+		<description>&lt;desc&gt;</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>About</title>
+				
+					<dc:creator>Torrid Games</dc:creator>
+				
+				
+					<description>&lt;p&gt;Torrid Games launched with the iOS game title SurfGod. This game gained attention for its innovative approach, offering a meditative surfing experience aimed at both surfers and non-surfers. In collaboration with oceanic pollution cleanup organizations like Heal the Bay, Torrid Games developed a free version of SurfGod, achieving 20,000 downloads, reflecting the game’s impact and the company’s commitment to raising awareness about oceanic pollution.  Torrid Games is in the process of raising capital to continue this trend at a deeper and broader level.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 02 Jan 2024 00:00:00 -0800</pubDate>
+				<link>http://localhost:4000/TG</link>
+				<guid isPermaLink="true">http://localhost:4000/TG</guid>
+			</item>
+		
+	</channel>
+</rss>
