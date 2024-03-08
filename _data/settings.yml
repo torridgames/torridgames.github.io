@@ -13,12 +13,12 @@ menu:
 # - {name: 'Documentation',      url: 'documentation'}
 # - {name: 'About',              url: 'about'}
 # - {name: 'Contact',            url: 'contact'}
+- {name: ' About ',               url: 'about'}
 - {name: 'Events',           url: 'events'}
 # - {name: 'SurfGod HtB for iOS',   url: 'surfgodhtb'}
 - {name: 'Videos',                url: 'videos'}
 - {name: 'Affiliates',            url: 'affiliates'}
 - {name: 'SurfGod 1.0 Press Release',     url: 'press'}
-- {name: 'Mission',               url: 'about'}
 - {name: 'Heal The Bay',          url: 'healthebay'}
 - {name: 'Contact',               url: 'contact'}
 
