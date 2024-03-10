@@ -5,4 +5,5 @@ category: documentation
 permalink: /healthebay
 ---
 
-[info](https://healthebay.org)
+[website](https://healthebay.org)
+<img src="assets/img/HtB_InfoPic.png"/>
