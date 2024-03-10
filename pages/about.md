@@ -4,6 +4,9 @@ title: About
 permalink: /about
 ---
 
+<img src="assets/img/TG.png"/>
+<img src="assets/img/YMCA.jpeg"/>
+
 Torrid Games(TG), established in 2011, initially launched with the game title "SurfGod" for iOS. This game gained attention for its innovative approach, offering a meditative surfing experience aimed at both surfers and non-surfers. In collaboration with oceanic pollution cleanup organizations like Heal the Bay, Torrid Games developed a free version of SurfGod, achieving 20,000 downloads, reflecting the game's impact and the company's commitment to raising awareness about oceanic pollution.
 
 A VR/AR sequel, SurfGod 2 (SG2), was submitted to the NSF for a large scale grant in which our project-pitch was accepted and are currently revising our full SBIR proposal to be considered for a PHASE I grant award.
