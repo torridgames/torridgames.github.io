@@ -7,7 +7,7 @@ permalink: /videos
 
 [SG HtB 1.0 launch announcement](https://youtu.be/mQEg1_BHseY?si=4F2L8xh0VfxpDd16).
 
-[microsplastic talk](https://youtu.be/pLQx9XJU-9s?si=wMkoEEelpzNXL9ni).
+[Broad Stage(Eddy) microsplastic talk for Heal the Bay](https://youtu.be/pLQx9XJU-9s?si=wMkoEEelpzNXL9ni).
 
 [brain traning exercize twitter post and others](http://twitter.com/torridgames).
 
