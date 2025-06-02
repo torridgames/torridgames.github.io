@@ -10,7 +10,7 @@ Heal the Bay is a nonprofit environmental organization making Southern Californi
 
 All profits from SurfGod HtB 1.0 were donated to Heal the Bay.  This will be continuing into the 2.0 version and potentially extended to other non-profits at each's respective level of involvement. Incidentally, the development of the initial app was achieved at minimal cost furthering these profits as it was almost entirely developed by two people. 
 [Video](https://youtu.be/DY-8u66-XJE).
-<img src="assets/img/SS_Ana_Matt_SG1.png"/>
+<img src="assets/img/SS_Ana_Matt_SG1.png" style="width: 50%; height: 333;">
 
 Ana Luisa Moran Ahern, featured in the video, is the Executive Director at EcoViva
 Ana and was Heal the Bay Communications Manager from Nov 2011 - Jun 2014.  She was integral to the initial version of SurfGod HtB with art, web, and visibility.  Additionally, she along with an HtB intern, made the original SurfGod standee which had elegantly sculpted 3d elements.  At Heal the Bay, she managed digital content and outreach efforts using a suite of CMS, CRM, and social networking tools. She managed Heal the Bay’s website including Drupal content generation, copy-editing, and production (in both English and Spanish). and social media platforms including Twitter, Facebook, Instagram, Pinterest, Vine, Flickr and YouTube communities for daily content, growth and engagement. She composed/designed and sent weekly e-newsletters to over 50,000 audience members as well as analyzed/tracked audience growth and engagement across all platforms. Ana developed and designed original artwork, collateral and digital content for general and campaign-specific outreach. She created original video and photography content. She trained and supervised interns and volunteers.
