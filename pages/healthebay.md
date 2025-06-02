@@ -9,7 +9,7 @@ Heal the Bay is a nonprofit environmental organization making Southern Californi
 [healthebay.org](https://healthebay.org)
 
 All profits from SurfGod HtB 1.0 were donated to Heal the Bay.  This will be continuing into the 2.0 version and potentially extended to other non-profits at each's respective level of involvement. Incidentally, the development of the initial app was achieved at minimal cost furthering these profits as it was almost entirely developed by two people. 
-[Video](https://youtu.be/DY-8u66-XJE).
+[[Video]](https://youtu.be/DY-8u66-XJE).
 <img src="assets/img/SS_Ana_Matt_SG1.png" style="width: 66%; height: 200;">
 
 Ana Luisa Moran Ahern, featured in the video, is the Executive Director at EcoViva
