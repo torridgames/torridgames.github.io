@@ -8,7 +8,8 @@ permalink: /healthebay
 Heal the Bay is a nonprofit environmental organization making Southern California coastal waters and watersheds, including Santa Monica Bay, safe, healthy and clean, using science, education, community action and advocacy to pursue their mission.
 [healthebay.org](https://healthebay.org)
 
-All profits from SurfGod HtB 1.0 were donated to Heal the Bay.  This will be continuing into the 2.0 version and potentially extended to other non-profits at each's respective level of involvement. Incidentally, the development of the initial app was achieved at minimal cost furthering these profits as it was almost entirely developed by two people. 
+All profits from SurfGod HtB 1.0 were donated to Heal the Bay.  This will be continuing into the 2.0 version and potentially extended to other non-profits at each's respective level of involvement. Incidentally, the development of the initial app was achieved at minimal cost, almost entirely developed by two people
+who have already established the visceral feel of being in the wave -- surfing, and cleaning up our oceans simultaneously.  The majority of the remaining work with the project's sequel will be dedicated to increasing its public visibility as enhancing the app and making it available on all devices including VR/AR is fiarly formulaic in the modern digital development age.
 [[Video]](https://youtu.be/DY-8u66-XJE).
 <img src="assets/img/SS_Ana_Matt_SG1.png" style="width: 66%; height: 200;">
 
