@@ -17,6 +17,6 @@ Ana and was Heal the Bay Communications Manager from Nov 2011 - Jun 2014.  She w
 
 With the 2.0 version there is a slightly larger development team albeit still small with additional help from Milken Community School interns providing design, programming, art, and QA support.
 
-Special thanks to Meredith McCarthy, Nancy Shrodes, Tracy Quinn, Alex Babcock, Felipe Macchia Yahn, Jenna Segal, Melissa Aguayo (Speakers Bureau Manager 2008 - 2015), Gabriele Morgan, and all the other amazing staff/volunteers/beach-cleanup-groups at Heal the Bay for their oceanic service and the Santa Monica Bay.
+Special thanks to Meredith McCarthy, Nancy Shrodes, Tracy Quinn, Alex Babcock, Felipe Macchia Yahn, Jenna Segal, Melissa Aguayo (Speakers Bureau Manager 2008 - 2015), Gabriele Morgan, and all the other amazing staff/volunteers/beach-cleanup-groups at Heal the Bay for their service in the Santa Monica Bay.
 
 [//]: # <img src="assets/img/HtB_InfoPic.png"/>
